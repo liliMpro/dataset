@@ -1,1 +1,2 @@
 # dataset
+用XGBoost和互信息算法降维CICDDoS2019数据集和KDDCup99数据集。 用XGBoost降维CICDDoS2019数据集和KDDCup99数据集，分别是CICDDoS2019训练子集和测试子集,KDDCup99训练子集和测试子集; 用互信息降维CICDDoS2019数据集和KDDCup99数据集，分别是CICDDoS2019训练子集和测试子集,KDDCup99训练子集和测试子集
